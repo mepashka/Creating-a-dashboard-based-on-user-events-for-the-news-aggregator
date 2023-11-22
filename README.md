@@ -1,3 +1,5 @@
+[Ссылка на проект: ](https://github.com/mepashka/Creating-a-dashboard-based-on-user-events-for-the-news-aggregator/tree/main)
+
 # Creating-a-dashboard-based-on-user-events-for-the-news-aggregator
 
 ### Библиотеки: / numpy / sys / getopt / datetime / dash / dash_core_components / dash_html_components / plotly / sqlalchem
